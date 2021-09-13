@@ -20,9 +20,9 @@ Note: with Anaconda installed any future packages that you need may be installed
 To open jupyer notebook once installed you can navigate through the Anaconda application or you can type "jupyter notebook" into terminal or command prompt which will open a notebook environment through your browser. 
 
 GOOGLE COLLAB:
-If you want to avoid the complications that come with installation, packages, and irksome dependancies, Google has a free and easy-to-use notebook enviornment called Google Colabtrory which combines the usefullness of notebooks with the online/sharing/auto-saving goodness of Google Drive. 
+If you want to avoid the complications that come with installation, packages, and irksome dependancies, Google has a free and easy-to-use notebook enviornment called Google Colaboratory which combines the usefullness of notebooks with the online/sharing/auto-saving goodness of Google Drive. 
 
-Simply go to your Google Dirve (if you have a google account) and create a new document; under "more" yyou should find "Colabratory" which will open a new python notebook. For more info see the links below, the first is a tutorial and the second opens a notebook directly.
+Simply go to your Google Dirve (if you have a google account) and create a new document; under "more" yyou should find "Colaboratory" which will open a new python notebook. For more info see the links below, the first is a tutorial and the second opens a notebook directly.
 
 https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
 https://colab.research.google.com/notebooks/intro.ipynb
