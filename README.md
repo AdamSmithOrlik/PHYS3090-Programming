@@ -17,6 +17,7 @@ GOOGLE COLLAB: If you want to avoid the complications that come with installatio
 Simply go to your Google Drive (if you have a google account) and create a new document; under "more" you should find "Colaboratory" which will open a new python notebook. For more info see the links below, the first is a tutorial and the second opens a notebook directly.
 
 https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
+
 https://colab.research.google.com/notebooks/intro.ipynb
 
 LIBRARIES: There are many libraries that will be very useful to us for science/math applications. A short list includes, but is not limited to, numpy (math and arrays), matplotlib (plotting tools), pandas (save/read/munge data), scipy (numerical routines and curve fitting), and much more. The links below will provide tutorials for each of these libraries. Moreover, many libraries will be presented in the tutorial.
