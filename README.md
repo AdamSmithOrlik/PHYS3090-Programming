@@ -25,6 +25,7 @@ If you want to avoid the complications that come with installation, packages, an
 Simply go to your Google Dirve (if you have a google account) and create a new document; under "more" yyou should find "Colaboratory" which will open a new python notebook. For more info see the links below, the first is a tutorial and the second opens a notebook directly.
 
 https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
+
 https://colab.research.google.com/notebooks/intro.ipynb
 
 
