@@ -1,5 +1,4 @@
 # PHYS3090-Programming
-A repository of useful information for getting started with programming in python with applications in physics and data sciences.
 
 WHY PYTHON:
 Python is an open source (free), object-orented, high-level programming langauge that is widely used in web- and app-development, software applications, data sciences and much more. It is fast becoming a standard tool among sciences researchers for its ease-of-use, wealth of specialized libraries and add-ons, and convienience of notebook enviornments for collaboration and sharing results. Python also benefits from a large community of deidicated users who provide no shortage of tutorial videos and online support for those less advanced users (see tutorial links below).  
@@ -45,29 +44,3 @@ Great youtube tutorials: https://www.youtube.com/user/schafer5
 Video on Anaconda: https://www.youtube.com/watch?v=YJC6ldI3hWk
 Video on Jupyter Notebooks: https://www.youtube.com/watch?v=HW29067qVWk
 Textbook: https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
